@@ -1,0 +1,12 @@
+{
+    "files.autoSave": "onFocusChange",
+    "workbench.colorTheme": "Default Dark+",
+    "editor.codeActionsOnSave": {
+        "source.fixAll": true,
+        "source.fixAll.eslint": true,
+        },
+        "editor.formatOnSave": true,
+        "javascript.format.enable": false,
+
+    
+}
